@@ -1,0 +1,2 @@
+model_checkpoint_path: "CCycleGAN.ckpt"
+all_model_checkpoint_paths: "CCycleGAN.ckpt"
