@@ -1,4 +1,4 @@
-# Constrained CycleGAN for Effective Generation of Ultrasound Sector Images of Uniform Spatial Resolution
+# Constrained CycleGAN for Effective Generation of Ultrasound Sector Images of Improved Spatial Resolution
 
 Xiaofei Sun
 
